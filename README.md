@@ -1,2 +1,2 @@
 # Flap-Game
-made a game on unity
+Made a game on unity
